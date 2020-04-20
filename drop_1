@@ -2,7 +2,21 @@
     "key":"drop_1",
     "author":"iCodeDreams",
     "Items": {
-      "ID_NAME": {
+      "Hoe_Cool": {
+         "Name": [
+            "&6Item Name"
+         ],
+         "Lore": [
+            "&7Item",
+            "&7Lore"
+         ],
+         "Material":{
+            "Item": "diamond hoe",
+            "NBT": "{}"
+         },
+         "amount": 1
+      },
+       "notcool_hoe": {
          "Name": [
             "&6Item Name"
          ],
