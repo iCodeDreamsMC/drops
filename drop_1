@@ -30,29 +30,5 @@
          },
          "amount": 1
       }
-    },
-
-
-    "Entities": {
-      "ID_NAME": {
-         "Mob":{
-            "Type": "cow"
-         },
-         "amount": 1
-      }
-    },
-
-
-    "Commands": {
-      "Player": [
-         "1",
-         "2",
-         "3"
-      ],
-      "Console": [
-         "1",
-         "2",
-         "3"
-      ]
     }
 }
