@@ -1,1 +1,11 @@
-CustomDropFile(test, 1, 2)
+{
+  "foo": 15,
+  "bar": "test",
+  "baz": {
+    "foobar": [
+      {
+        "quux": false
+      }
+    ]
+  }
+}
