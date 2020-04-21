@@ -1,33 +1,45 @@
 {  
-    "key":"drop_1",
-    "rarity": "high",
-    "author":"iCodeDreams",
-    "Items": {
-      "Hoe_Cool": {
-         "Name": [
-            "&6Item Name1"
-         ],
-         "Lore": [
-            "&7Lore"
-         ],
-         "Material":{
-            "Item": "diamond hoe",
-            "NBT": "{}"
-         },
-         "amount": 1
-      },
-       "notcool_hoe": {
-         "Name": [
-            "&6Item Name2"
-         ],
-         "Lore": [
-            "&7Lore"
-         ],
-         "Material":{
-            "Item": "diamond hoe",
-            "NBT": "{}"
-         },
-         "amount": 1
-      }
-    }
+   "key":"drop_1",
+   "rarity": "high",
+   "author":"iCodeDreams",
+   "Items": {
+     "Hoe_Cool": {
+        "Name": [
+           "&6Item Name1"
+        ],
+        "Lore": [
+           "&7Lore"
+        ],
+        "Material":{
+           "Item": "diamond hoe",
+           "NBT": "{}"
+        },
+        "amount": 1
+     },
+      "notcool_hoe": {
+        "Name": [
+           "&6Item Name2"
+        ],
+        "Lore": [
+           "&7Lore"
+        ],
+        "Material":{
+           "Item": "diamond hoe",
+           "NBT": "{}"
+        },
+        "amount": 1
+     }
+   },
+  "Commands": {
+    "Player": [
+       "1",
+       "2",
+       "3"
+    ],
+    "Console": [
+       "1",
+       "2",
+       "3"
+    ]
+  }
 }
