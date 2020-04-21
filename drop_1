@@ -32,14 +32,14 @@
    },
   "Commands": {
     "Player": [
-       "1",
-       "2",
-       "3"
+       "make",
+       "me",
+       "run"
     ],
     "Console": [
-       "1",
-       "2",
-       "3"
+       "this",
+       "command",
+       "pls"
     ]
   }
 }
