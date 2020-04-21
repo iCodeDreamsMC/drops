@@ -18,7 +18,7 @@
      },
       "notcool_hoe": {
         "Name": [
-           "&6Item Name2"
+           "&6[Player] [PlayerLocation] [BlockLocation] [PlayerUUID]"
         ],
         "Lore": [
            "&7Lore"
