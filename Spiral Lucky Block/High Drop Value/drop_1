@@ -13,7 +13,8 @@
            "Item": "diamond hoe",
            "NBT": "{CustomModelData:1}"
         },
-        "amount": 1
+        "amount": 1,
+        "ID": GRENADE_LAUNCHER
      },
       "DAGGER": {
         "Name": [
@@ -26,7 +27,8 @@
            "Item": "diamond hoe",
            "NBT": "{CustomModelData:2}"
         },
-        "amount": 1
+        "amount": 1,
+        "ID": DAGGER
      }
    },
   "Commands": {
