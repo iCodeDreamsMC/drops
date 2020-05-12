@@ -1,1 +1,45 @@
-DROP
+{  
+   "key":"drop_1",
+   "author":"iCodeDreams",
+   "Items": {
+     "GRENADE_LAUNCHER": {
+        "Name": [
+           "&6Grenade Launcher"
+        ],
+        "Lore": [
+           "&7Right-Click to Launch Grenade!"
+        ],
+        "Material":{
+           "Item": "diamond hoe",
+           "NBT": "{CustomModelData:1}"
+        },
+        "amount": 1
+     },
+      "DAGGER": {
+        "Name": [
+           "&6[Player]&6's Dagger"
+        ],
+        "Lore": [
+           "&7Right-Click to Throw Dagger!"
+        ],
+        "Material":{
+           "Item": "diamond hoe",
+           "NBT": "{CustomModelData:2}"
+        },
+        "amount": 1
+     }
+   },
+  "Commands": {
+    "Player": [
+       "make",
+       "me",
+       "run"
+    ],
+    "Console": [
+       "this",
+       "command",
+       "pls"
+
+    ]
+  }
+}
